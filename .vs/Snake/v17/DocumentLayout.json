@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Snake\\GameState.cs",
               "ToolTip": "C:\\Users\\tobia\\Desktop\\Projects\\Snake\\Snake\\GameState.cs",
               "RelativeToolTip": "Snake\\GameState.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAxwIkAAAANAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAIkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T11:55:22.84Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\tobia\\Desktop\\Projects\\Snake\\Snake\\MainWindow.xaml",
               "RelativeToolTip": "Snake\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-07T11:24:52.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T11:24:52.625Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Snake\\MainWindow.xaml.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAQwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:24:51.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T11:24:51.053Z"
             }
           ]
         }
